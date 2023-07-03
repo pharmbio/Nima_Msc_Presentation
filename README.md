@@ -34,7 +34,7 @@ Overview Mode: Press the »ESC« or »O« keys to toggle the overview mode on an
 
 Jump to Slide:bYou can skip ahead to a specific slide using reveal.js' jump-to-slide shortcut. Here's how it works:
 
-Press G to activate
-Type a slide number or id
-Press Enter to confirm
+- Press G to activate
+- Type a slide number or id
+- Press Enter to confirm
 
