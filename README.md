@@ -32,9 +32,9 @@ Fullscreen mode:  Press <kbd>F</kbd> on your keyboard to view your presentation 
 
 Overview Mode: Press the <kbd>ESC</kbd> or <kbd>O</kbd> keys to toggle the overview mode on and off. While you're in this mode, you can still navigate between slides.
 
-Jump to Slide:bYou can skip ahead to a specific slide using reveal.js' jump-to-slide shortcut. Here's how it works:
+Jump to Slide: You can skip ahead to a specific slide using reveal.js' jump-to-slide shortcut. Here's how it works:
 
-- Press G to activate
+- Press <kbd>G</kbd> to activate
 - Type a slide number or id
-- Press Enter to confirm
+- Press <kbd>Enter</kbd> to confirm
 
