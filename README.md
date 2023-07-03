@@ -13,7 +13,7 @@ If you want to modify the presentation and implement your slide
 2. Clone this repository
    
 ```shell script
-$ git clone https://github.com/hakimel/reveal.js.git
+$ git clone https://github.com/pharmbio/Nima_Msc_Presentation.git
 ```
 3. Move to the cloned folder and install dependencies
    
