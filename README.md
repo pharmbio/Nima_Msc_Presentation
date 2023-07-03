@@ -28,9 +28,9 @@ $ cd reveal.js && npm install
 
 ## Options
 
-Fullscreen mode:  Press »F« on your keyboard to view your presentation in fullscreen mode. Once in fullscreen mode, press the »ESC« key to exit.
+Fullscreen mode:  Press <kbd>F</kbd> on your keyboard to view your presentation in fullscreen mode. Once in fullscreen mode, press the <kbd>ESC</kbd> key to exit.
 
-Overview Mode: Press the »ESC« or »O« keys to toggle the overview mode on and off. While you're in this mode, you can still navigate between slides.
+Overview Mode: Press the <kbd>ESC</kbd> or <kbd>O</kbd> keys to toggle the overview mode on and off. While you're in this mode, you can still navigate between slides.
 
 Jump to Slide:bYou can skip ahead to a specific slide using reveal.js' jump-to-slide shortcut. Here's how it works:
 
