@@ -1,0 +1,50 @@
+/* CSS */
+.make-it-pop {
+    filter: drop-shadow(0 0 10px rgb(163, 163, 163));
+  }
+
+.dataframe {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.dataframe td, .dataframe th {
+    width: 25%;
+    padding: 5px;
+    /* box-sizing: border-box; */
+}
+
+.value {
+    border: 2px solid rgb(104, 170, 104);
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: wrap;
+    padding: 5px;
+    flex: 1 1 auto;
+}
+
+figure {
+    width: calc(50% - 10px); /* Subtract margin */
+    text-align: center;
+    margin: 5px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    max-height: 150px;
+    object-fit: contain;
+}
+
+figcaption {
+    font-family: Arial, sans-serif;
+    font-size: 8px;
+}
+.reveal .slide-number {
+    font-size: 22px;
+    left: 8px;
+    right: 95%;
+    bottom: 8px;
+}
