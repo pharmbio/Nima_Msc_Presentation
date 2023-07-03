@@ -2,7 +2,7 @@
 
 This is My master thesis final presentation on Intersecting Graph Representation Learning and Cell Profiling (HTML/CSS/JS using reveal.js).
 
-Visit [the live demo](https://github.com/pharmbio/Nima_Msc_Presentation)
+Visit [the live demo](https://pharmbio.github.io/Nima_Msc_Presentation/)
 
 ## How to open it or modify the presentation
 
