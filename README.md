@@ -21,7 +21,7 @@ $ git clone https://github.com/pharmbio/Nima_Msc_Presentation.git
 $ cd reveal.js && npm install
 ```
 
-4. use a live server and open http://localhost:[port] to view your presentation or simply open index.html with a browser or make a github repo like this to make it online.
+4. Use a live server and open http://localhost:[port] to view your presentation or simply open index.html with a browser or make a github repo like this to make it online.
 
 5. Change the code in index.html as instructed in https://revealjs.com/ to make your own presentation.
 
