@@ -1,6 +1,6 @@
 # Presentation using HTML/CSS/JS (reveal.js)
 
-This is My [master thesis](https://github.com/pharmbio/nw-cp) final presentation on Intersecting Graph Representation Learning and Cell Profiling (HTML/CSS/JS using reveal.js).
+This is My [master thesis](https://github.com/pharmbio/nw-cp) final presentation on Intersecting Graph Representation Learning and Cell Profiling.
 
 Visit [the live demo](https://pharmbio.github.io/Nima_Msc_Presentation/)
 
